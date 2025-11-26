@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 我的小日常</title>
-    <link>https://cihaca1.github.io/tags/</link>
-    <description>Recent content in Tags on 我的小日常</description>
+    <title>tags on *我的小日常*</title>
+    <link>https://neopost.neocities.org/tags/</link>
+    <description>Recent content in tags on *我的小日常*</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://cihaca1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jan 2025 21:05:11 -0300</lastBuildDate>
+    <atom:link href="https://neopost.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常</title>
+      <link>https://neopost.neocities.org/tags/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
+      <guid>https://neopost.neocities.org/tags/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,20 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cihaca1.github.io/posts/</loc>
-    <lastmod>2025-11-25T16:34:46+08:00</lastmod>
+    <loc>https://neopost.neocities.org/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>https://cihaca1.github.io/</loc>
-    <lastmod>2025-11-25T16:34:46+08:00</lastmod>
+    <loc>https://neopost.neocities.org/posts/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>https://cihaca1.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2025-11-25T16:34:46+08:00</lastmod>
+    <loc>https://neopost.neocities.org/tags/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>https://cihaca1.github.io/posts/hello/</loc>
-    <lastmod>2025-11-25T11:49:24+08:00</lastmod>
+    <loc>https://neopost.neocities.org/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>https://cihaca1.github.io/categories/</loc>
+    <loc>https://neopost.neocities.org/posts/friends/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
-    <loc>https://cihaca1.github.io/tags/</loc>
+    <loc>https://neopost.neocities.org/categories/</loc>
   </url>
 </urlset>
