@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on *我的小日常*</title>
+    <link>https://neopost.neocities.org/posts/</link>
+    <description>Recent content in posts on *我的小日常*</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 29 Jan 2025 21:05:11 -0300</lastBuildDate>
+    <atom:link href="https://neopost.neocities.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章!!</title>
+      <link>https://neopost.neocities.org/posts/friends/</link>
+      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
+      <guid>https://neopost.neocities.org/posts/friends/</guid>
+      <description>&lt;p&gt;我的第一篇文章&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
